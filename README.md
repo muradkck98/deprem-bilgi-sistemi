@@ -2,6 +2,8 @@
 
 Bu proje, Türkiye'deki deprem verilerini ve fay hatlarını interaktif bir harita üzerinde görselleştiren bir web uygulamasıdır.
 
+prod: https://deprem-bilgi-sistemi.netlify.app
+
 https://github.com/user-attachments/assets/667bc0f2-8bae-451f-9932-d5b289653427
 
 ![image](https://github.com/user-attachments/assets/a70abb7e-1c09-47db-92d6-d87ae7f9b861)
