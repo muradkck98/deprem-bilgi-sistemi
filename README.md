@@ -1,4 +1,4 @@
-# Türkiye Deprem Haritası
+# Türkiye Deprem Bilgi Sistemi
 
 Bu proje, Türkiye'deki deprem verilerini ve fay hatlarını interaktif bir harita üzerinde görselleştiren bir web uygulamasıdır.
 
