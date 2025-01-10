@@ -2,6 +2,17 @@
 
 Bu proje, Türkiye'deki deprem verilerini ve fay hatlarını interaktif bir harita üzerinde görselleştiren bir web uygulamasıdır.
 
+https://github.com/user-attachments/assets/667bc0f2-8bae-451f-9932-d5b289653427
+
+![image](https://github.com/user-attachments/assets/a70abb7e-1c09-47db-92d6-d87ae7f9b861)
+
+![image](https://github.com/user-attachments/assets/4c84a126-ca2f-4619-881c-141eaaae52fe)
+
+
+https://github.com/user-attachments/assets/77cf7d52-ed8e-4e23-9488-f9d56de28641
+
+![image](https://github.com/user-attachments/assets/c2c58485-6488-42cf-827b-272b05173a67)
+
 ## 🌟 Özellikler
 
 - **Deprem Görüntüleme**: 1979'dan günümüze kadar olan depremleri harita üzerinde gösterir
@@ -29,16 +40,6 @@ Projeyi klonlayın
 - Axios
 
 # 🎯 Kullanım
-https://github.com/user-attachments/assets/667bc0f2-8bae-451f-9932-d5b289653427
-
-![image](https://github.com/user-attachments/assets/a70abb7e-1c09-47db-92d6-d87ae7f9b861)
-
-![image](https://github.com/user-attachments/assets/4c84a126-ca2f-4619-881c-141eaaae52fe)
-
-
-https://github.com/user-attachments/assets/77cf7d52-ed8e-4e23-9488-f9d56de28641
-
-![image](https://github.com/user-attachments/assets/c2c58485-6488-42cf-827b-272b05173a67)
 
 1. **Katman Yönetimi**:
    - Sol üst köşedeki katman yöneticisinden istediğiniz katmanları açıp kapatabilirsiniz
